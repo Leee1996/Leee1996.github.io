@@ -8,8 +8,8 @@
   --bg:        #0E0E14;   /* page background — near black, not pure black */
   --surface:   #16161F;   /* cards and panels */
   --line:      #2A2A38;   /* borders and dividers */
-  --text:      #E8E8F0;   /* body text */
-  --muted:     #9A9AB0;   /* secondary text */
+  --text:      #ffffff;   /* body text */
+  --muted:     #ffffff;   /* secondary text */
   --accent:    #18cc00;   /* links, highlights, the one loud colour */
   --accent-2:  #18cc00;   /* a second accent, used sparingly */
 
