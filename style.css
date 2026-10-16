@@ -11,7 +11,7 @@
   --text:      #E8E8F0;   /* body text */
   --muted:     #9A9AB0;   /* secondary text */
   --accent:    #18cc00;   /* links, highlights, the one loud colour */
-  --accent-2:  #00D6D6;   /* a second accent, used sparingly */
+  --accent-2:  #18cc00;   /* a second accent, used sparingly */
 
   --display: "Space Grotesk", system-ui, sans-serif;
   --body:    "Inter", system-ui, -apple-system, sans-serif;
