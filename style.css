@@ -172,7 +172,7 @@ h1, h2, h3 {
 .btn-primary {
   background: var(--accent);
   border-color: var(--accent);
-  color: #13a300;
+  color: #fff;
 }
 
 .btn-primary:hover {
